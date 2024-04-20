@@ -1,0 +1,6 @@
+/Users/madhuboyina/Desktop/madhu/git/docker-kubernetes-java-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/ProductServiceApplication.java
+/Users/madhuboyina/Desktop/madhu/git/docker-kubernetes-java-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/configuration/ProductServiceConfiguration.java
+/Users/madhuboyina/Desktop/madhu/git/docker-kubernetes-java-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/model/Product.java
+/Users/madhuboyina/Desktop/madhu/git/docker-kubernetes-java-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/healthchecks/BasicHealthCheck.java
+/Users/madhuboyina/Desktop/madhu/git/docker-kubernetes-java-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/services/ProductService.java
+/Users/madhuboyina/Desktop/madhu/git/docker-kubernetes-java-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/resources/ProductResource.java

@@ -31,9 +31,9 @@ spec:
     spec:
       containers:
       - name: productcatalogue
-        image: taniaduggal60/productcatalogue1:latest
+        image: madhuboyina/productcatalogue:latest
         ports:
-        - containerPort: 8020
+          - containerPort: 8020
         livenessProbe:
           httpGet:
             path: /healthcheck
